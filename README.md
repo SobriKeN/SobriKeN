@@ -1,6 +1,6 @@
 ### Hello!
 
-- 📚 Currently studying at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/) 
+- 📚 Currently working at [Siemens](https://www.siemens.com/global/en.html) 
 - 🌱 I’m currently learning more about Software Engineering
 - 📫 Liked what you saw? Email me or go to my LinkedIn!
 
